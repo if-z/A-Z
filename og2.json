@@ -4,7 +4,7 @@
 "wallpaper":"https://tv.nxog.top/m/t/",
 "spider":"https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
 "sites": [
-{"key":"豆瓣2","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"勿信广告，免受骗","type":3,"api":"csp_Douban","searchable":0},
 
 {"key":"荐片","name":"💡荐片｜影视","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"南瓜","name":"💡南瓜｜影视","type":3,"api":"csp_Nangua","searchable":1,"quickSearch":1,"filterable":1},
