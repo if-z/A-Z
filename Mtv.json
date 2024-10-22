@@ -218,21 +218,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "立播影视",
-      "name": "立播｜影视",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://libvio.link"
-      }
-    },
+
     {
       "key": "饺子影视",
       "name": "饺子｜影视",
@@ -953,22 +939,6 @@
         "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
       },
       "timeout": 10
-    },
-    {
-      "key": "立播弹幕",
-      "name": "立播｜弹幕",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-        "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-        "site": "https://libvio.link",
-        "danmu": true
-      }
     },
     {
       "key": "三六零弹幕",
