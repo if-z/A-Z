@@ -1,0 +1,3 @@
+港澳,#genre#
+无线新闻，http://php.jdshipin.com:8880/smt.php?id=inews_twn
+香港卫视，http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
