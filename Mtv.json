@@ -79,6 +79,34 @@
       "filterable": 1,
       "ext": "./XYQHiker/短剧屋.json"
     },
+      {
+      "key": "腾讯视频",
+      "name": "腾讯｜视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/腾讯视频.js"
+    },
+    {
+      "key": "优酷视频",
+      "name": "优酷｜视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/优酷视频.js"
+    },
+        {
+      "key": "爱奇艺",
+      "name": "爱奇艺｜视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/爱奇艺.js"
+    },
+    {
+      "key": "芒果视频",
+      "name": "芒果｜视频",
+      "type": 3,
+      "api": "./JS/drpy2.min.js",
+      "ext": "./JS/芒果视频.js"
+    },
     {
       "key": "韩小圈",
       "name": "韩小圈｜APP",
@@ -370,13 +398,7 @@
       "filterable": 1,
       "ext": "./XYQHiker/电影牛.json"
     },
-    {
-      "key": "爱奇艺",
-      "name": "爱奇艺｜视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/爱奇艺.js"
-    },
+
     {
       "key": "三六零",
       "name": "三六零｜视频",
@@ -419,27 +441,7 @@
       "api": "./JS/drpy2.min.js",
       "ext": "./JS/魔力高清.js"
     },
-    {
-      "key": "腾讯视频",
-      "name": "腾讯｜视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/腾讯视频.js"
-    },
-    {
-      "key": "优酷视频",
-      "name": "优酷｜视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/优酷视频.js"
-    },
-    {
-      "key": "芒果视频",
-      "name": "芒果｜视频",
-      "type": 3,
-      "api": "./JS/drpy2.min.js",
-      "ext": "./JS/芒果视频.js"
-    },
+
     {
       "key": "搜狗视频",
       "name": "搜狗｜视频",
