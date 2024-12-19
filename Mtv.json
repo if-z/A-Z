@@ -164,6 +164,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"csp_Ikanbot","name": "👾Ikanbot","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://v.aikanbot.com"},
     {
       "key": "笙歌影视",
       "name": "笙歌｜APP",
