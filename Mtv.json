@@ -92,7 +92,69 @@
       "filterable": 1,
       "ext": "./XYQHiker/短剧屋.json"
     },
-
+    {
+      "key": "guoguo",
+      "name": "🎬蜗牛┃4K",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734155068522/1214wudi.jar;md5;e3373285325c90d62408e42710d8d066",
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
+    },
+        {
+      "key": "SP33",
+      "name": "📺蜗牛┃解析",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar": "https://tv.xn--11x555b.top/TV/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+       {
+      "key": "瓜子影视",
+      "name": "🥜瓜子┃2K纯净",
+      "type": 3,
+      "api": "csp_Gz360",
+      "jar": "https://tv.xn--11x555b.top/jar/spider.txt;md5;9fe02badd73cbc2cd59ec8e510604af9",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "dianyiPQ",
+      "name": "💭蜗牛专享┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://tv.xn--11x555b.top/lib/woniu.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html",
+        "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
+        "简介": "【】提醒🔺勿信广告，避免受骗🔺+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
+        "线路标题": "【】💠+<span>&&</span>[排序:TK>HD>XS>YI>DI>]"
+      }
+    },
+        {
+      "key": "mgys",
+      "name": "🎬蜗牛┃备用",
+      "type": 3,
+      "jar": "https://gitee.com/woniuxs/woniu/raw/main/iiCeK2hicw6d;md5;7ee82ff7f6b078cf17f3475515bfa32f",
+      "playerType": "2",
+      "api": "https://yyrj.fun/drpy_libs/drpy2.min.js",
+      "ext": "https://gitee.com/woniuxs/woniu/raw/main/js/mangguo.js"
+    },
     {
       "key": "韩小圈",
       "name": "韩小圈｜APP",
