@@ -973,47 +973,12 @@
       "api": "./JS/drpy2.min.js",
       "ext": "./JS/大米动漫.js"
     },
-    {
-      "key": "南瓜弹幕",
-      "name": "南瓜｜弹幕",
-      "type": 3,
-      "api": "csp_Nangua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
+
     {
       "key": "厂长弹幕",
       "name": "厂长｜弹幕",
       "type": 3,
       "api": "csp_Czzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "天天弹幕",
-      "name": "天天｜弹幕",
-      "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "热播弹幕",
-      "name": "热播｜弹幕",
-      "type": 3,
-      "api": "csp_ReBo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -1045,47 +1010,7 @@
         "danmu": true
       }
     },
-    {
-      "key": "哔哩弹幕",
-      "name": "哔哩｜弹幕",
-      "type": 3,
-      "api": "csp_Bilimd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "cookie": "http://127.0.0.1:9978/file/TVBox/bilibili.txt"
-      },
-      "timeout": 10
-    },
-    {
-      "key": "三六零弹幕",
-      "name": "三六零｜弹幕",
-      "type": 3,
-      "api": "csp_Sp360",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "机器人弹幕",
-      "name": "机器人｜弹幕",
-      "type": 3,
-      "api": "csp_Ikanbot",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
+
     {
       "key": "小苹果弹幕",
       "name": "小苹果｜弹幕",
@@ -1110,42 +1035,7 @@
         "danmu": true
       }
     },
-    {
-      "key": "荐片弹幕",
-      "name": "荐片｜弹幕",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-    {
-      "key": "哔嘀弹幕",
-      "name": "哔嘀｜弹幕",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://www.yjys05.com",
-        "danmu": true
-      }
-    },
-    {
-      "key": "荐片",
-      "name": "荐片｜磁力",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "New6v",
       "name": "New6V｜磁力",
@@ -1336,16 +1226,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "短剧合集",
-      "name": "短剧｜合集",
-      "type": 3,
-      "api": "./js/drpy2.min.js",
-      "ext": "./js/短剧合集.js",
-      "style": {
-        "type": "list"
-      }
-    },
+
     {
       "key": "push_agent",
       "name": "手机｜推送",
