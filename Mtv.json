@@ -250,15 +250,7 @@
       "filterable": 1,
       "ext": "https://www.kmeiju.com"
     },
-    {
-      "key": "瓜子影视",
-      "name": "瓜子｜影视",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "疯狗影视",
       "name": "疯狗｜影视",
